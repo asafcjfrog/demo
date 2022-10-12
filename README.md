@@ -3,6 +3,7 @@
 * Taken from: https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/
 
 * NPM Packages for Project
+* * NPM Packages for Project
 * npm i -D nodemon
 * npm i express
 * npm i pug
